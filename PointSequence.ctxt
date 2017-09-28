@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=points
+comment0.target=PointSequence(Point[])
+comment1.params=pointIterable
+comment1.target=PointSequence(java.lang.Iterable)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=that
+comment4.target=int\ compareTo(PointSequence)
+comment5.params=
+comment5.target=int\ numberOfPoints()
+comment6.params=i
+comment6.target=Point\ get(int)
+comment7.params=
+comment7.target=boolean\ containsDuplicates()
+comment8.params=
+comment8.target=boolean\ isOrdered()
+comment9.params=
+comment9.target=boolean\ isCollinear()
+numComments=10

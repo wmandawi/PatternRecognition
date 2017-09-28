@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=points
+comment0.target=BruteCollinearPoints(Point[])
+comment1.params=points
+comment1.target=void\ checkDuplicate(Point[])
+comment2.params=
+comment2.target=int\ numberOfPoints()
+comment3.params=
+comment3.target=int\ numberOfSegments()
+comment4.params=
+comment4.target=java.lang.Iterable\ segments()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

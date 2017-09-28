@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=points
+comment0.target=FastCollinearPoints(Point[])
+comment1.params=p\ minLength
+comment1.target=void\ addSegments(Point,\ int)
+comment2.params=minLength
+comment2.target=void\ collinear(int)
+comment3.params=
+comment3.target=int\ numberOfPoints()
+comment4.params=minLength
+comment4.target=int\ numberOfSegments(int)
+comment5.params=minLength
+comment5.target=java.lang.Iterable\ segments(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
